@@ -5,7 +5,11 @@ public class TestGit {
 		System.out.println("hello git");
 	}
 
-        public void test(){
-             System.out.println("hello git");
-        }
+    public void test(){
+         System.out.println("hello git");
+    }
+    
+    public void testBranchs() {
+    	System.out.println("fuck you");
+    }
 }
